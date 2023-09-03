@@ -2,25 +2,28 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Computer Scientist, Dresden University of Technology
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+#    <p>APB/2037</p>
+#    <p>Nöthnitzer Str. 46</p>
+#    <p>01187 Dresden</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, my name is Wolfgang Büschel, welcome to my website!  
+I am a computer scientist, and I am currently working as a post-doctoral researcher at the [Interactive Media Lab Dresden](https://imld.de) of the Dresden University of Technology, Germany.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My main research interests are immersive visualizations and advanced interaction methods for mixed reality. In 2023, I successfully defended my Ph.D. on _Spatial Interaction for Immersive Mixed-Reality Visualizations_. I am currently working in the [6G-life cluster](https://6g-life.de/), WP 2.3 Algorithms and Digital Twin, in which I am investigating mixed-presence collaboration in immersive environments and the effect of different avatar representations.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+For more information on my research, please check out my [publications](/publications). For a quick overview, you can find some highlights of my work on the [projects](/projects) page. I am always looking forward to new, exciting collaborations, so if you have some ideas, let's talk about them! You can find all the contact details at the bottom of the page.
+
+I am also a hobby photographer, mostly focusing on landscapes and architecture. I continuously try to improve, so any feedback on my [pictures](/projects#photos) is welcome!
