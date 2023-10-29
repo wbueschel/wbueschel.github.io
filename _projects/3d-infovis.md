@@ -48,4 +48,4 @@ One of my research interests lies in the usage of spatial interaction with mobil
 
 
 For more details about this project, please take a look at the main project [website](https://imld.de/en/research/research-projects/mobile-3dvis/)!
-Additionally, if you would like to cite MIRIA in your research, please cite our CHI '21 [paper](https://doi.org/10.1145/3132272.3134125).
+Additionally, if you would like to cite this project in your research, please cite our ISS '17 [paper](https://doi.org/10.1145/3132272.3134125).
