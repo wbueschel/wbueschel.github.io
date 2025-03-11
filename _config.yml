@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Wolfgang
 middle_name: 
 last_name: Büschel
-email: wolfgang.bueschel@tu-dresden.de
+email: bueschel@acm.org
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   the personal website of Wolfgang Büschel
 footer_text: >
