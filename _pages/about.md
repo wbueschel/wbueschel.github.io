@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Computer Scientist, Dresden University of Technology
+subtitle: Computer Scientist, University of Stuttgart
 
 profile:
   align: right
@@ -20,9 +20,9 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Hi, my name is Wolfgang Büschel, welcome to my website!  
-I am a computer scientist, and I am currently working as a post-doctoral researcher at the [Interactive Media Lab Dresden](https://imld.de) of the Dresden University of Technology, Germany.
+I am a computer scientist, and I am currently working as a post-doctoral researcher at the [VISUS](https://www.visus.uni-stuttgart.de) of the University of Stuttgart, Germany.
 
-My main research interests are immersive visualizations and advanced interaction methods for mixed reality. In 2023, I successfully defended my Ph.D. on _Spatial Interaction for Immersive Mixed-Reality Visualizations_. I am currently working in the [6G-life cluster](https://6g-life.de/), WP 2.3 Algorithms and Digital Twin, in which I am investigating mixed-presence collaboration in immersive environments and the effect of different avatar representations.
+In 2023, I successfully defended my Ph.D. on _Spatial Interaction for Immersive Mixed-Reality Visualizations_ at the [Interactive Media Lab Dresden](https://imld.de). My research areas are immersive & situated analytics and advanced mixed-reality interfaces. Specifically, I am interested in mixed-presence collaboration in immersive environments, immersive data stories, and the use of AI technologies for situated & embodied interfaces.
 
 For more information on my research, please check out my [publications](/publications). For a quick overview, you can find some highlights of my work on the [projects](/projects) page. I am always looking forward to new, exciting collaborations, so if you have some ideas, let's talk about them! You can find all the contact details at the bottom of the page.
 
